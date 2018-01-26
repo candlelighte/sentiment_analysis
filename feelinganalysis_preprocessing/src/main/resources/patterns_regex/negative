@@ -1,0 +1,4 @@
+(?i)^(\bNegPol\b\s)*(\b%s\b\s){1}(\bPosPol\b(\s)*)*$
+(?i)^(\b%s\b(\s)*)(\bPosPol\b(\s)*)+(\bNegPol\b(\s)*)+$
+(?i)^(\bNOT\b(\s)*)(\bPosPol\b(\s)*)+$
+(?i)^(\bPosPol\b\s)*(\bBut\b\s){1}(\bNegPol\b(\s)*)*$
